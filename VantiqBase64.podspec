@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "VantiqBase64"
-  s.version      = "1.2.1.4"
+  s.version      = "1.2.1.5"
   s.summary      = "Vantiq fork of Base64"
   s.homepage     = "https://github.com/Vantiq/Base64"
   s.license      = 'zlib'
