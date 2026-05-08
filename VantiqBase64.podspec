@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "VantiqBase64"
-  s.version      = "1.2.1.3"
+  s.version      = "1.2.1.4"
   s.summary      = "Vantiq fork of Base64"
   s.homepage     = "https://github.com/Vantiq/Base64"
   s.license      = 'zlib'
@@ -9,4 +9,5 @@ Pod::Spec.new do |s|
   s.source_files = 'Base64'
   s.requires_arc = true
   s.ios.deployment_target = '15.0'
+  s.header_dir   = 'Base64'
 end
